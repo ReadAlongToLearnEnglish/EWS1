@@ -1,0 +1,2888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE kvtml PUBLIC "kvtml2.dtd" "http://edu.kde.org/kvtml/kvtml2.dtd">
+<kvtml version="2.0">
+  <information>
+    <generator>kwordquiz 21.12.3</generator>
+    <title>EWS-EmojiOnesSVGsAndSentences.kvtml</title>
+    <date>2024-09-22</date>
+  </information>
+  <identifiers>
+    <identifier id="0">
+      <name>Words</name>
+      <locale>en</locale>
+    </identifier>
+    <identifier id="1">
+      <name>Words &amp; Sentences</name>
+      <locale>en</locale>
+    </identifier>
+  </identifiers>
+  <entries>
+    <entry id="0">
+      <translation id="0">
+        <text>EW&amp;S 1: English Words &amp; Sentences Introduction</text>
+      </translation>
+      <translation id="1">
+        <text>A series of videos using flashcards and focusing on word pronunciation and using the words in a sentence.</text>
+      </translation>
+    </entry>
+    <entry id="1">
+      <translation id="0">
+        <text>InitialWords</text>
+      </translation>
+      <translation id="1">
+        <text>These are some of the more important words if you only have time to learn a few.</text>
+      </translation>
+    </entry>
+    <entry id="2">
+      <translation id="0">
+        <text>Still a work in progress.</text>
+      </translation>
+      <translation id="1">
+        <text>Sorry i dont have sentences for everything yet.</text>
+      </translation>
+    </entry>
+    <entry id="3">
+      <translation id="0">
+        <text>Ambulance</text>
+        <image>file:10_InitialWords/EmojiOne_ambulance-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>An ambulance takes sick people to the hospital.</text>
+      </translation>
+    </entry>
+    <entry id="4">
+      <translation id="0">
+        <text>Bed</text>
+        <image>file:10_InitialWords/EmojiOne_bed-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>Wheni get tired i lie down in bed.</text>
+      </translation>
+    </entry>
+    <entry id="5">
+      <translation id="0">
+        <text>Water</text>
+        <image>file:10_InitialWords/EmojiOne_droplet-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>When i get thirsty i like to drink water</text>
+      </translation>
+    </entry>
+    <entry id="6">
+      <translation id="0">
+        <text>Fire Engine</text>
+        <image>file:10_InitialWords/EmojiOne_fire-engine-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>A fire engine brings fire fighters to fires.</text>
+      </translation>
+    </entry>
+    <entry id="7">
+      <translation id="0">
+        <text>Fire</text>
+        <image>file:10_InitialWords/EmojiOne_fire-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>A fire can be very dangerous and can spread quickly</text>
+      </translation>
+    </entry>
+    <entry id="8">
+      <translation id="0">
+        <text>Hospital</text>
+        <image>file:10_InitialWords/EmojiOne_hospital-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>A hospital is where sick people go to get better</text>
+      </translation>
+    </entry>
+    <entry id="9">
+      <translation id="0">
+        <text>Police Officer</text>
+        <image>file:10_InitialWords/EmojiOne_police-officer-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>A police officer helps people and enforces the laws</text>
+      </translation>
+    </entry>
+    <entry id="10">
+      <translation id="0">
+        <text>Shower</text>
+        <image>file:10_InitialWords/EmojiOne_shower-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>A shower is where people go to get clean</text>
+      </translation>
+    </entry>
+    <entry id="11">
+      <translation id="0">
+        <text>Toilet</text>
+        <image>file:10_InitialWords/EmojiOne_toilet-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>People go to the toilet to pee and poo.</text>
+      </translation>
+    </entry>
+    <entry id="12">
+      <translation id="0">
+        <text>Bin</text>
+        <image>file:10_InitialWords/EmojiOne_wastebasket-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>Rubbish is thrown into the bin</text>
+      </translation>
+    </entry>
+    <entry id="13">
+      <translation id="0">
+        <text>InitialWords2</text>
+      </translation>
+      <translation id="1">
+        <text>Directions and Help</text>
+      </translation>
+    </entry>
+    <entry id="14">
+      <translation id="0">
+        <text>Down</text>
+        <image>file:20_InitialWords2/EmojiOne_backhand-index-pointing-down-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="15">
+      <translation id="0">
+        <text>Left</text>
+        <image>file:20_InitialWords2/EmojiOne_backhand-index-pointing-left-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="16">
+      <translation id="0">
+        <text>Right</text>
+        <image>file:20_InitialWords2/EmojiOne_backhand-index-pointing-right-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="17">
+      <translation id="0">
+        <text>Up</text>
+        <image>file:20_InitialWords2/EmojiOne_backhand-index-pointing-up-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="18">
+      <translation id="0">
+        <text>Yes</text>
+        <image>file:20_InitialWords2/EmojiOne_white-heavy-check-mark-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="19">
+      <translation id="0">
+        <text>No</text>
+        <image>file:20_InitialWords2/EmojiOne_cross-mark-button-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="20">
+      <translation id="0">
+        <text>Warning</text>
+        <image>file:20_InitialWords2/EmojiOne_warning-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>Warning</text>
+      </translation>
+    </entry>
+    <entry id="21">
+      <translation id="0">
+        <text>HELP</text>
+        <image>file:20_InitialWords2/EmojiOne_sos-button-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>If you need help urgently, a SOS is a signal for people in distress</text>
+      </translation>
+    </entry>
+    <entry id="22">
+      <translation id="0">
+        <text>RESCUE</text>
+        <image>file:20_InitialWords2/rescue-workers-helmet-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>A paramedic comes to resue people who need help and provide first aid.</text>
+      </translation>
+    </entry>
+    <entry id="23">
+      <translation id="0">
+        <text>Power plug</text>
+        <image>file:30_InitialWords3/electric-plug-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="24">
+      <translation id="0">
+        <text>ATM</text>
+        <image>file:30_InitialWords3/EmojiOne_atm-sign-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="25">
+      <translation id="0">
+        <text>Credit Card</text>
+        <image>file:30_InitialWords3/EmojiOne_credit-card-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="26">
+      <translation id="0">
+        <text>Cash</text>
+        <image>file:30_InitialWords3/EmojiOne_money-bag-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="27">
+      <translation id="0">
+        <text>Pencil</text>
+        <image>file:30_InitialWords3/EmojiOne_pencil-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="28">
+      <translation id="0">
+        <text>Pen</text>
+        <image>file:30_InitialWords3/EmojiOne_pen-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="29">
+      <translation id="0">
+        <text>Notepad</text>
+        <image>file:30_InitialWords3/EmojiOne_spiral-notepad-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="30">
+      <translation id="0">
+        <text>Mobile Phone</text>
+        <image>file:30_InitialWords3/mobile-phone-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="31">
+      <translation id="0">
+        <text>Drinks</text>
+      </translation>
+      <translation id="1">
+        <text>Drinks are a liquids like water</text>
+      </translation>
+    </entry>
+    <entry id="32">
+      <translation id="0">
+        <text>Beer</text>
+        <image>file:40_Drinks/beer-mug-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="33">
+      <translation id="0">
+        <text>Milk</text>
+        <image>file:40_Drinks/EmojiOne_glass-of-milk-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="34">
+      <translation id="0">
+        <text>Coffee</text>
+        <image>file:40_Drinks/EmojiOne_hot-beverage-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="35">
+      <translation id="0">
+        <text>Water</text>
+        <image>file:40_Drinks/EmojiOne_potable-water-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="36">
+      <translation id="0">
+        <text>Tea</text>
+        <image>file:40_Drinks/EmojiOne_teacup-without-handle-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="37">
+      <translation id="0">
+        <text>Cocktail</text>
+        <image>file:40_Drinks/EmojiOne_tropical-drink-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="38">
+      <translation id="0">
+        <text>Wine</text>
+        <image>file:40_Drinks/EmojiOne_wine-glass-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="39">
+      <translation id="0">
+        <text>Snacks</text>
+      </translation>
+      <translation id="1">
+        <text>A snack is a food but not as big as a meal.</text>
+      </translation>
+    </entry>
+    <entry id="40">
+      <translation id="0">
+        <text>Banana</text>
+        <image>file:50_Snacks/EmojiOne_banana-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="41">
+      <translation id="0">
+        <text>Candy</text>
+        <image>file:50_Snacks/EmojiOne_candy-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="42">
+      <translation id="0">
+        <text>Chocolate</text>
+        <image>file:50_Snacks/EmojiOne_chocolate-bar-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="43">
+      <translation id="0">
+        <text>Cookie</text>
+        <image>file:50_Snacks/EmojiOne_cookie-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="44">
+      <translation id="0">
+        <text>Donut</text>
+        <image>file:50_Snacks/EmojiOne_doughnut-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="45">
+      <translation id="0">
+        <text>Grapes</text>
+        <image>file:50_Snacks/EmojiOne_grapes-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="46">
+      <translation id="0">
+        <text>Apple</text>
+        <image>file:50_Snacks/EmojiOne_red-apple-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="47">
+      <translation id="0">
+        <text>Orange</text>
+        <image>file:50_Snacks/EmojiOne_tangerine-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="48">
+      <translation id="0">
+        <text>Cake</text>
+        <image>file:60_Snacks2/EmojiOne_birthday-cake-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="49">
+      <translation id="0">
+        <text>Bread</text>
+        <image>file:60_Snacks2/EmojiOne_bread-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="50">
+      <translation id="0">
+        <text>Cheese</text>
+        <image>file:60_Snacks2/EmojiOne_cheese-wedge-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="51">
+      <translation id="0">
+        <text>Egg</text>
+        <image>file:60_Snacks2/EmojiOne_egg-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="52">
+      <translation id="0">
+        <text>Salad</text>
+        <image>file:60_Snacks2/EmojiOne_green-salad-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="53">
+      <translation id="0">
+        <text>Popcorn</text>
+        <image>file:60_Snacks2/EmojiOne_popcorn-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="54">
+      <translation id="0">
+        <text>Meals</text>
+      </translation>
+      <translation id="1">
+        <text>A meal is a food eaten at a time like breakfast, lunch or dinner</text>
+      </translation>
+    </entry>
+    <entry id="55">
+      <translation id="0">
+        <text>Fries</text>
+        <image>file:70_Meals/EmojiOne_french-fries-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="56">
+      <translation id="0">
+        <text>Burger</text>
+        <image>file:70_Meals/EmojiOne_hamburger-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="57">
+      <translation id="0">
+        <text>Hot dog</text>
+        <image>file:70_Meals/EmojiOne_hot-dog-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="58">
+      <translation id="0">
+        <text>Pizza</text>
+        <image>file:70_Meals/EmojiOne_pizza-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="59">
+      <translation id="0">
+        <text>Spaghetti Bolognese</text>
+        <image>file:70_Meals/EmojiOne_spaghetti-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="60">
+      <translation id="0">
+        <text>Noodles</text>
+        <image>file:70_Meals/EmojiOne_steaming-bowl-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="61">
+      <translation id="0">
+        <text>Sushi</text>
+        <image>file:70_Meals/EmojiOne_sushi-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="62">
+      <translation id="0">
+        <text>Taco</text>
+        <image>file:70_Meals/EmojiOne_taco-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="63">
+      <translation id="0">
+        <text>Avocado</text>
+        <image>file:75_FoodItems/avocado-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="64">
+      <translation id="0">
+        <text>Baby Bottle</text>
+        <image>file:75_FoodItems/baby-bottle-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="65">
+      <translation id="0">
+        <text>Bacon</text>
+        <image>file:75_FoodItems/bacon-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="66">
+      <translation id="0">
+        <text>Baguette</text>
+        <image>file:75_FoodItems/baguette-bread-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="67">
+      <translation id="0">
+        <text>Bento Box</text>
+        <image>file:75_FoodItems/bento-box-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="68">
+      <translation id="0">
+        <text>Bottle of wine</text>
+        <image>file:75_FoodItems/bottle-with-popping-cork-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="69">
+      <translation id="0">
+        <text>Burrito</text>
+        <image>file:75_FoodItems/burrito-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="70">
+      <translation id="0">
+        <text>Carrot</text>
+        <image>file:75_FoodItems/carrot-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="71">
+      <translation id="0">
+        <text>Cherries</text>
+        <image>file:75_FoodItems/cherries-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="72">
+      <translation id="0">
+        <text>Chestnut</text>
+        <image>file:75_FoodItems/chestnut-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="73">
+      <translation id="0">
+        <text>cocktail glass</text>
+        <image>file:75_FoodItems/cocktail-glass-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="74">
+      <translation id="0">
+        <text>cooked rice</text>
+        <image>file:75_FoodItems/cooked-rice-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="75">
+      <translation id="0">
+        <text>cooking and egg in a frypan</text>
+        <image>file:75_FoodItems/cooking-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="76">
+      <translation id="0">
+        <text>Croissant</text>
+        <image>file:75_FoodItems/croissant-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="77">
+      <translation id="0">
+        <text>Cucumber</text>
+        <image>file:75_FoodItems/cucumber-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="78">
+      <translation id="0">
+        <text>Curry</text>
+        <image>file:75_FoodItems/curry-rice-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="79">
+      <translation id="0">
+        <text>Custard</text>
+        <image>file:75_FoodItems/custard-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="80">
+      <translation id="0">
+        <text>Corn</text>
+        <image>file:75_FoodItems/ear-of-corn-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="81">
+      <translation id="0">
+        <text>Eggplant</text>
+        <image>file:75_FoodItems/eggplant-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="82">
+      <translation id="0">
+        <text>Knife and Fork</text>
+        <image>file:75_FoodItems/fork-and-knife-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="83">
+      <translation id="0">
+        <text>Knife Fork and Plate</text>
+        <image>file:75_FoodItems/fork-and-knife-with-plate-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="84">
+      <translation id="0">
+        <text>Chilli Pepper</text>
+        <image>file:75_FoodItems/hot-pepper-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="85">
+      <translation id="0">
+        <text>Ice Cream</text>
+        <image>file:75_FoodItems/ice-cream-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="86">
+      <translation id="0">
+        <text>Knife</text>
+        <image>file:75_FoodItems/kitchen-knife-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="87">
+      <translation id="0">
+        <text>Kiwi fruit</text>
+        <image>file:75_FoodItems/kiwi-fruit-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="88">
+      <translation id="0">
+        <text>lemon</text>
+        <image>file:75_FoodItems/lemon-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="89">
+      <translation id="0">
+        <text>Lollipop</text>
+        <image>file:75_FoodItems/lollipop-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="90">
+      <translation id="0">
+        <text>Meat</text>
+        <image>file:75_FoodItems/meat-on-bone-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="91">
+      <translation id="0">
+        <text>Melon</text>
+        <image>file:75_FoodItems/melon-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="92">
+      <translation id="0">
+        <text>Pancakes</text>
+        <image>file:75_FoodItems/pancakes-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="93">
+      <translation id="0">
+        <text>Peach</text>
+        <image>file:75_FoodItems/peach-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="94">
+      <translation id="0">
+        <text>Peanuts</text>
+        <image>file:75_FoodItems/peanuts-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="95">
+      <translation id="0">
+        <text>Pear</text>
+        <image>file:75_FoodItems/pear-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="96">
+      <translation id="0">
+        <text>Pineapple</text>
+        <image>file:75_FoodItems/pineapple-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="97">
+      <translation id="0">
+        <text>Potato</text>
+        <image>file:75_FoodItems/potato-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="98">
+      <translation id="0">
+        <text>Pot of food</text>
+        <image>file:75_FoodItems/pot-of-food-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="99">
+      <translation id="0">
+        <text>Poultry</text>
+        <image>file:75_FoodItems/poultry-leg-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="100">
+      <translation id="0">
+        <text>Rice Ball</text>
+        <image>file:75_FoodItems/rice-ball-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="101">
+      <translation id="0">
+        <text>Rice Cracker</text>
+        <image>file:75_FoodItems/rice-cracker-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="102">
+      <translation id="0">
+        <text>Roasted Sweet Potato</text>
+        <image>file:75_FoodItems/roasted-sweet-potato-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="103">
+      <translation id="0">
+        <text>Frypan with food</text>
+        <image>file:75_FoodItems/shallow-pan-of-food-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="104">
+      <translation id="0">
+        <text>Shortcake</text>
+        <image>file:75_FoodItems/shortcake-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="105">
+      <translation id="0">
+        <text>Soft Serve</text>
+        <image>file:75_FoodItems/soft-ice-cream-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="106">
+      <translation id="0">
+        <text>Spoon</text>
+        <image>file:75_FoodItems/spoon-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="107">
+      <translation id="0">
+        <text>Strawberry</text>
+        <image>file:75_FoodItems/strawberry-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="108">
+      <translation id="0">
+        <text>Stuffed Flatbread</text>
+        <image>file:75_FoodItems/stuffed-flatbread-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="109">
+      <translation id="0">
+        <text>Tomato</text>
+        <image>file:75_FoodItems/tomato-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="110">
+      <translation id="0">
+        <text>Tumbler Glass</text>
+        <image>file:75_FoodItems/tumbler-glass-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="111">
+      <translation id="0">
+        <text>Watermelon</text>
+        <image>file:75_FoodItems/watermelon-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="112">
+      <translation id="0">
+        <text>Household Items</text>
+      </translation>
+      <translation id="1">
+        <text>These are some items which can usually be found in a house</text>
+      </translation>
+    </entry>
+    <entry id="113">
+      <translation id="0">
+        <text>Bathtub</text>
+        <image>file:80_Household Items/bathtub-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="114">
+      <translation id="0">
+        <text>Alarm Clock</text>
+        <image>file:80_Household Items/EmojiOne_alarm-clock-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="115">
+      <translation id="0">
+        <text>Books</text>
+        <image>file:80_Household Items/EmojiOne_books-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="116">
+      <translation id="0">
+        <text>Calendar</text>
+        <image>file:80_Household Items/EmojiOne_calendar-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="117">
+      <translation id="0">
+        <text>Couch</text>
+        <image>file:80_Household Items/EmojiOne_couch-and-lamp-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="118">
+      <translation id="0">
+        <text>Door</text>
+        <image>file:80_Household Items/EmojiOne_door-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="119">
+      <translation id="0">
+        <text>Person in Bed</text>
+        <image>file:80_Household Items/EmojiOne_person-in-bed-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="120">
+      <translation id="0">
+        <text>Scissors</text>
+        <image>file:80_Household Items/EmojiOne_scissors-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="121">
+      <translation id="0">
+        <text>Ruler</text>
+        <image>file:80_Household Items/EmojiOne_straight-ruler-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="122">
+      <translation id="0">
+        <text>Telephone</text>
+        <image>file:80_Household Items/EmojiOne_telephone-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="123">
+      <translation id="0">
+        <text>World Map</text>
+        <image>file:80_Household Items/EmojiOne_world-map-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="124">
+      <translation id="0">
+        <text>Key</text>
+        <image>file:80_Household Items/key-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="125">
+      <translation id="0">
+        <text>Candle</text>
+        <image>file:90_HouseholdItems2/candle-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="126">
+      <translation id="0">
+        <text>Torch</text>
+        <image>file:90_HouseholdItems2/EmojiOne_flashlight-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="127">
+      <translation id="0">
+        <text>Headphones</text>
+        <image>file:90_HouseholdItems2/EmojiOne_headphone-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="128">
+      <translation id="0">
+        <text>Lightbulb</text>
+        <image>file:90_HouseholdItems2/EmojiOne_light-bulb-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="129">
+      <translation id="0">
+        <text>Newspaper</text>
+        <image>file:90_HouseholdItems2/EmojiOne_newspaper-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="130">
+      <translation id="0">
+        <text>Person taking a bath</text>
+        <image>file:90_HouseholdItems2/EmojiOne_person-taking-bath-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="131">
+      <translation id="0">
+        <text>Radio</text>
+        <image>file:90_HouseholdItems2/EmojiOne_radio-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="132">
+      <translation id="0">
+        <text>Television</text>
+        <image>file:90_HouseholdItems2/EmojiOne_television-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="133">
+      <translation id="0">
+        <text>Thermometer</text>
+        <image>file:90_HouseholdItems2/EmojiOne_thermometer-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="134">
+      <translation id="0">
+        <text>Joystick</text>
+        <image>file:90_HouseholdItems2/joystick-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="135">
+      <translation id="0">
+        <text>Clock</text>
+        <image>file:90_HouseholdItems2/mantelpiece-clock-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="136">
+      <translation id="0">
+        <text>Package</text>
+        <image>file:90_HouseholdItems2/package-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="137">
+      <translation id="0">
+        <text>Timer</text>
+        <image>file:90_HouseholdItems2/timer-clock-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="138">
+      <translation id="0">
+        <text>Umbrella</text>
+        <image>file:90_HouseholdItems2/umbrella-with-rain-drops-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="139">
+      <translation id="0">
+        <text>Clothing</text>
+      </translation>
+      <translation id="1">
+        <text>Clothing is a name for things people wear</text>
+      </translation>
+    </entry>
+    <entry id="140">
+      <translation id="0">
+        <text>Bikini</text>
+        <image>file:110_Clothing/EmojiOne_bikini-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="141">
+      <translation id="0">
+        <text>Dress</text>
+        <image>file:110_Clothing/EmojiOne_dress-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="142">
+      <translation id="0">
+        <text>High Heeled shoes</text>
+        <image>file:110_Clothing/EmojiOne_high-heeled-shoe-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="143">
+      <translation id="0">
+        <text>Jeans</text>
+        <image>file:110_Clothing/EmojiOne_jeans-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="144">
+      <translation id="0">
+        <text>Sneakers</text>
+        <image>file:110_Clothing/EmojiOne_running-shoe-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="145">
+      <translation id="0">
+        <text>TShirt</text>
+        <image>file:110_Clothing/EmojiOne_t-shirt-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="146">
+      <translation id="0">
+        <text>Watch</text>
+        <image>file:110_Clothing/EmojiOne_watch-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="147">
+      <translation id="0">
+        <text>Glasses</text>
+        <image>file:110_Clothing/glasses-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="148">
+      <translation id="0">
+        <text>Backpack</text>
+        <image>file:120_Clothing2/EmojiOne_backpack-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="149">
+      <translation id="0">
+        <text>Briefcase</text>
+        <image>file:120_Clothing2/EmojiOne_briefcase-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="150">
+      <translation id="0">
+        <text>Clutch</text>
+        <image>file:120_Clothing2/EmojiOne_clutch-bag-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="151">
+      <translation id="0">
+        <text>Handbag</text>
+        <image>file:120_Clothing2/EmojiOne_handbag-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="152">
+      <translation id="0">
+        <text>Purse</text>
+        <image>file:120_Clothing2/EmojiOne_purse-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="153">
+      <translation id="0">
+        <text>Ring</text>
+        <image>file:120_Clothing2/EmojiOne_ring-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="154">
+      <translation id="0">
+        <text>Sunglasses</text>
+        <image>file:120_Clothing2/EmojiOne_sunglasses-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="155">
+      <translation id="0">
+        <text>Necktie</text>
+        <image>file:120_Clothing2/necktie-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="156">
+      <translation id="0">
+        <text>Gestures</text>
+      </translation>
+      <translation id="1">
+        <text>People make gestures as a part of non-verbal communication</text>
+      </translation>
+    </entry>
+    <entry id="157">
+      <translation id="0">
+        <text>Clap</text>
+        <image>file:150_Gestures/EmojiOne_clapping-hands-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="158">
+      <translation id="0">
+        <text>Handshake</text>
+        <image>file:150_Gestures/EmojiOne_handshake-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="159">
+      <translation id="0">
+        <text>Ok</text>
+        <image>file:150_Gestures/EmojiOne_ok-hand-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="160">
+      <translation id="0">
+        <text>Thumbs down</text>
+        <image>file:150_Gestures/EmojiOne_thumbs-down-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="161">
+      <translation id="0">
+        <text>Thumbs up</text>
+        <image>file:150_Gestures/EmojiOne_thumbs-up-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="162">
+      <translation id="0">
+        <text>Waving</text>
+        <image>file:150_Gestures/EmojiOne_waving-hand-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="163">
+      <translation id="0">
+        <text>Body Parts</text>
+      </translation>
+      <translation id="1">
+        <text>There are many different parts of the body</text>
+      </translation>
+    </entry>
+    <entry id="164">
+      <translation id="0">
+        <text>Heart</text>
+        <image>file:160_BodyParts/beating-heart-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="165">
+      <translation id="0">
+        <text>Ear</text>
+        <image>file:160_BodyParts/ear-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="166">
+      <translation id="0">
+        <text>Eyes</text>
+        <image>file:160_BodyParts/eyes-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="167">
+      <translation id="0">
+        <text>Eye</text>
+        <image>file:160_BodyParts/eye-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="168">
+      <translation id="0">
+        <text>Arm</text>
+        <image>file:160_BodyParts/flexed-biceps-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="169">
+      <translation id="0">
+        <text>Hands</text>
+        <image>file:160_BodyParts/folded-hands-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="170">
+      <translation id="0">
+        <text>Mouth</text>
+        <image>file:160_BodyParts/mouth-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="171">
+      <translation id="0">
+        <text>Nose</text>
+        <image>file:160_BodyParts/nose-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="172">
+      <translation id="0">
+        <text>Tongue</text>
+        <image>file:160_BodyParts/tongue-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="173">
+      <translation id="0">
+        <text>Emotions</text>
+      </translation>
+      <translation id="1">
+        <text>People can be sad, happy and there are many different emotions</text>
+      </translation>
+    </entry>
+    <entry id="174">
+      <translation id="0">
+        <text>Very Happy</text>
+        <image>file:170Emotions/beaming-face-with-smiling-eyes-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="175">
+      <translation id="0">
+        <text>Angry</text>
+        <image>file:170Emotions/EmojiOne_angry-face-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="176">
+      <translation id="0">
+        <text>Astonished</text>
+        <image>file:170Emotions/EmojiOne_astonished-face-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="177">
+      <translation id="0">
+        <text>Crying</text>
+        <image>file:170Emotions/EmojiOne_crying-face-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="178">
+      <translation id="0">
+        <text>Injured</text>
+        <image>file:170Emotions/EmojiOne_face-with-head-bandage-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="179">
+      <translation id="0">
+        <text>Sleeping</text>
+        <image>file:170Emotions/EmojiOne_sleeping-face-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="180">
+      <translation id="0">
+        <text>Smiling</text>
+        <image>file:170Emotions/EmojiOne_smiling-face-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="181">
+      <translation id="0">
+        <text>Sneezing</text>
+        <image>file:170Emotions/EmojiOne_sneezing-face-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="182">
+      <translation id="0">
+        <text>ill</text>
+        <image>file:170Emotions/face-with-thermometer-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="183">
+      <translation id="0">
+        <text>Sad</text>
+        <image>file:170Emotions/frowning-face-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="184">
+      <translation id="0">
+        <text>Sick</text>
+        <image>file:170Emotions/nauseated-face-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="185">
+      <translation id="0">
+        <text>People</text>
+      </translation>
+      <translation id="1">
+        <text>People can be called different names based on their age and whether they are male or femals</text>
+      </translation>
+    </entry>
+    <entry id="186">
+      <translation id="0">
+        <text>Baby</text>
+        <image>file:180_People/baby-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="187">
+      <translation id="0">
+        <text>Boy</text>
+        <image>file:180_People/boy-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="188">
+      <translation id="0">
+        <text>Girl</text>
+        <image>file:180_People/girl-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="189">
+      <translation id="0">
+        <text>Man</text>
+        <image>file:180_People/man-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="190">
+      <translation id="0">
+        <text>Woman</text>
+        <image>file:180_People/woman-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="191">
+      <translation id="0">
+        <text>Places</text>
+      </translation>
+      <translation id="1">
+        <text>a Place is somewhere people visit</text>
+      </translation>
+    </entry>
+    <entry id="192">
+      <translation id="0">
+        <text>Castle</text>
+        <image>file:200_Places/castle-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="193">
+      <translation id="0">
+        <text>Convenience store</text>
+        <image>file:200_Places/convenience-store-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="194">
+      <translation id="0">
+        <text>Bank</text>
+        <image>file:200_Places/EmojiOne_bank-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="195">
+      <translation id="0">
+        <text>church</text>
+        <image>file:200_Places/EmojiOne_church-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="196">
+      <translation id="0">
+        <text>shop</text>
+        <image>file:200_Places/EmojiOne_department-store-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="197">
+      <translation id="0">
+        <text>factory</text>
+        <image>file:200_Places/EmojiOne_factory-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="198">
+      <translation id="0">
+        <text>hotel</text>
+        <image>file:200_Places/EmojiOne_hotel-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="199">
+      <translation id="0">
+        <text>house</text>
+        <image>file:200_Places/EmojiOne_house-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="200">
+      <translation id="0">
+        <text>postbox</text>
+        <image>file:200_Places/EmojiOne_postbox-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="201">
+      <translation id="0">
+        <text>post office</text>
+        <image>file:200_Places/EmojiOne_post-office-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="202">
+      <translation id="0">
+        <text>school</text>
+        <image>file:200_Places/EmojiOne_school-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="203">
+      <translation id="0">
+        <text>stadium</text>
+        <image>file:200_Places/EmojiOne_stadium-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="204">
+      <translation id="0">
+        <text>national park</text>
+        <image>file:200_Places/national-park-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="205">
+      <translation id="0">
+        <text>office building</text>
+        <image>file:200_Places/office-building-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="206">
+      <translation id="0">
+        <text>Geography</text>
+      </translation>
+      <translation id="1">
+        <text>Geography is a way to describe the land</text>
+      </translation>
+    </entry>
+    <entry id="207">
+      <translation id="0">
+        <text>Beach</text>
+        <image>file:210_Geography/beach-with-umbrella-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="208">
+      <translation id="0">
+        <text>Island</text>
+        <image>file:210_Geography/desert-island-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="209">
+      <translation id="0">
+        <text>Desert</text>
+        <image>file:210_Geography/desert-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="210">
+      <translation id="0">
+        <text>Coast</text>
+        <image>file:210_Geography/mountain-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="211">
+      <translation id="0">
+        <text>Mountain</text>
+        <image>file:210_Geography/snow-capped-mountain-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="212">
+      <translation id="0">
+        <text>Transport</text>
+      </translation>
+      <translation id="1">
+        <text>Transport is a word to describe moving from one place to another</text>
+      </translation>
+    </entry>
+    <entry id="213">
+      <translation id="0">
+        <text>Airplane</text>
+        <image>file:250_Transport/airplane-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="214">
+      <translation id="0">
+        <text>Car</text>
+        <image>file:250_Transport/automobile-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="215">
+      <translation id="0">
+        <text>bicycle</text>
+        <image>file:250_Transport/bicycle-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="216">
+      <translation id="0">
+        <text>bus stop</text>
+        <image>file:250_Transport/bus-stop-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="217">
+      <translation id="0">
+        <text>bus</text>
+        <image>file:250_Transport/bus-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="218">
+      <translation id="0">
+        <text>canoe</text>
+        <image>file:250_Transport/canoe-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="219">
+      <translation id="0">
+        <text>truck</text>
+        <image>file:250_Transport/delivery-truck-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="220">
+      <translation id="0">
+        <text>ferry</text>
+        <image>file:250_Transport/ferry-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="221">
+      <translation id="0">
+        <text>fuel pump</text>
+        <image>file:250_Transport/fuel-pump-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="222">
+      <translation id="0">
+        <text>helicopter</text>
+        <image>file:250_Transport/helicopter-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="223">
+      <translation id="0">
+        <text>minibus</text>
+        <image>file:250_Transport/minibus-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="224">
+      <translation id="0">
+        <text>motorcyle</text>
+        <image>file:250_Transport/motorcycle-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="225">
+      <translation id="0">
+        <text>scooter</text>
+        <image>file:250_Transport/motor-scooter-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="226">
+      <translation id="0">
+        <text>highway</text>
+        <image>file:250_Transport/motorway-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="227">
+      <translation id="0">
+        <text>police car</text>
+        <image>file:250_Transport/police-car-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="228">
+      <translation id="0">
+        <text>railway</text>
+        <image>file:250_Transport/railway-track-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="229">
+      <translation id="0">
+        <text>taxi</text>
+        <image>file:250_Transport/taxi-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="230">
+      <translation id="0">
+        <text>Animals</text>
+      </translation>
+      <translation id="1">
+        <text>The world has many different animals, some are pets, others are wild. They come in many different shapes and sizes</text>
+      </translation>
+    </entry>
+    <entry id="231">
+      <translation id="0">
+        <text>ant</text>
+        <image>file:300_Animals/ant-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="232">
+      <translation id="0">
+        <text>bird</text>
+        <image>file:300_Animals/bird-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="233">
+      <translation id="0">
+        <text>butterfly</text>
+        <image>file:300_Animals/butterfly-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="234">
+      <translation id="0">
+        <text>cat</text>
+        <image>file:300_Animals/cat-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="235">
+      <translation id="0">
+        <text>chicken</text>
+        <image>file:300_Animals/chicken-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="236">
+      <translation id="0">
+        <text>dog</text>
+        <image>file:300_Animals/dog-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="237">
+      <translation id="0">
+        <text>fish</text>
+        <image>file:300_Animals/fish-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="238">
+      <translation id="0">
+        <text>snail</text>
+        <image>file:300_Animals/snail-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="239">
+      <translation id="0">
+        <text>cow</text>
+        <image>file:310_Animals2/cow-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="240">
+      <translation id="0">
+        <text>crab</text>
+        <image>file:310_Animals2/crab-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="241">
+      <translation id="0">
+        <text>crocodile</text>
+        <image>file:310_Animals2/crocodile-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="242">
+      <translation id="0">
+        <text>duck</text>
+        <image>file:310_Animals2/duck-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="243">
+      <translation id="0">
+        <text>elephant</text>
+        <image>file:310_Animals2/elephant-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="244">
+      <translation id="0">
+        <text>horse</text>
+        <image>file:310_Animals2/horse-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="245">
+      <translation id="0">
+        <text>koala</text>
+        <image>file:310_Animals2/koala-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="246">
+      <translation id="0">
+        <text>lion</text>
+        <image>file:310_Animals2/lion-face-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="247">
+      <translation id="0">
+        <text>lizard</text>
+        <image>file:310_Animals2/lizard-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="248">
+      <translation id="0">
+        <text>monkey</text>
+        <image>file:310_Animals2/monkey-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="249">
+      <translation id="0">
+        <text>penguin</text>
+        <image>file:310_Animals2/penguin-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="250">
+      <translation id="0">
+        <text>rabbit</text>
+        <image>file:310_Animals2/rabbit-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="251">
+      <translation id="0">
+        <text>snake</text>
+        <image>file:310_Animals2/snake-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="252">
+      <translation id="0">
+        <text>spider</text>
+        <image>file:310_Animals2/spider-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="253">
+      <translation id="0">
+        <text>spider web</text>
+        <image>file:310_Animals2/spider-web-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="254">
+      <translation id="0">
+        <text>tortise</text>
+        <image>file:310_Animals2/turtle-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="255">
+      <translation id="0">
+        <text>Items</text>
+      </translation>
+      <translation id="1">
+        <text>An item is a think you can pick up and carry</text>
+      </translation>
+    </entry>
+    <entry id="256">
+      <translation id="0">
+        <text>Battery</text>
+        <image>file:400 Items- Items2/battery-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="257">
+      <translation id="0">
+        <text>Bell</text>
+        <image>file:400 Items- Items2/bell-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="258">
+      <translation id="0">
+        <text>Flower</text>
+        <image>file:400 Items- Items2/blossom-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="259">
+      <translation id="0">
+        <text>Boquet of flowers</text>
+        <image>file:400 Items- Items2/bouquet-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="260">
+      <translation id="0">
+        <text>camera</text>
+        <image>file:400 Items- Items2/camera-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="261">
+      <translation id="0">
+        <text>cigarette</text>
+        <image>file:400 Items- Items2/cigarette-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="262">
+      <translation id="0">
+        <text>label</text>
+        <image>file:400 Items- Items2/label-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="263">
+      <translation id="0">
+        <text>megaphone</text>
+        <image>file:400 Items- Items2/megaphone-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="264">
+      <translation id="0">
+        <text>microscope</text>
+        <image>file:400 Items- Items2/microscope-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="265">
+      <translation id="0">
+        <text>nametag</text>
+        <image>file:400 Items- Items2/name-badge-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="266">
+      <translation id="0">
+        <text>pistol</text>
+        <image>file:400 Items- Items2/pistol-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="267">
+      <translation id="0">
+        <text>microphone</text>
+        <image>file:400 Items- Items2/studio-microphone-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="268">
+      <translation id="0">
+        <text>telescope</text>
+        <image>file:400 Items- Items2/telescope-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="269">
+      <translation id="0">
+        <text>Computer Mouse</text>
+        <image>file:410_Computers/computer-mouse-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="270">
+      <translation id="0">
+        <text>Desktop Computer</text>
+        <image>file:410_Computers/desktop-computer-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="271">
+      <translation id="0">
+        <text>DVD</text>
+        <image>file:410_Computers/dvd-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="272">
+      <translation id="0">
+        <text>Keyboard</text>
+        <image>file:410_Computers/keyboard-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="273">
+      <translation id="0">
+        <text>Laptop</text>
+        <image>file:410_Computers/laptop-computer-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="274">
+      <translation id="0">
+        <text>Printer</text>
+        <image>file:410_Computers/printer-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="275">
+      <translation id="0">
+        <text>Currencies</text>
+      </translation>
+      <translation id="1">
+        <text>Different countries use different types of money</text>
+      </translation>
+    </entry>
+    <entry id="276">
+      <translation id="0">
+        <text>Currency Exchange</text>
+        <image>file:420_Currencies/currency-exchange-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="277">
+      <translation id="0">
+        <text>Dollar</text>
+        <image>file:420_Currencies/dollar-banknote-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="278">
+      <translation id="0">
+        <text>Euro</text>
+        <image>file:420_Currencies/euro-banknote-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="279">
+      <translation id="0">
+        <text>Pound</text>
+        <image>file:420_Currencies/pound-banknote-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="280">
+      <translation id="0">
+        <text>Yen</text>
+        <image>file:420_Currencies/yen-banknote-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="281">
+      <translation id="0">
+        <text>Musical Instruments</text>
+      </translation>
+      <translation id="1">
+        <text>People like to relax to music and there are many instruments</text>
+      </translation>
+    </entry>
+    <entry id="282">
+      <translation id="0">
+        <text>Drum</text>
+        <image>file:430Musical Instruments/drum-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="283">
+      <translation id="0">
+        <text>Guitar</text>
+        <image>file:430Musical Instruments/guitar-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="284">
+      <translation id="0">
+        <text>Saxophone</text>
+        <image>file:430Musical Instruments/saxophone-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="285">
+      <translation id="0">
+        <text>Trumpet</text>
+        <image>file:430Musical Instruments/trumpet-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="286">
+      <translation id="0">
+        <text>Violin</text>
+        <image>file:430Musical Instruments/violin-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="287">
+      <translation id="0">
+        <text>Weather</text>
+      </translation>
+      <translation id="1">
+        <text>The Weather is a description of what it is like outside. For example, it could be sunny, cloudy or rainy and you would want to dress appropraitely before going out.</text>
+      </translation>
+    </entry>
+    <entry id="288">
+      <translation id="0">
+        <text>Cloud</text>
+        <image>file:500_Weather/cloud-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="289">
+      <translation id="0">
+        <text>Raining with Thunderstorms</text>
+        <image>file:500_Weather/cloud-with-lightning-and-rain-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="290">
+      <translation id="0">
+        <text>Thunderstorms</text>
+        <image>file:500_Weather/cloud-with-lightning-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="291">
+      <translation id="0">
+        <text>Raining</text>
+        <image>file:500_Weather/cloud-with-rain-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="292">
+      <translation id="0">
+        <text>Snowing</text>
+        <image>file:500_Weather/cloud-with-snow-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="293">
+      <translation id="0">
+        <text>Foggy</text>
+        <image>file:500_Weather/fog-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="294">
+      <translation id="0">
+        <text>Partially cloudy</text>
+        <image>file:500_Weather/sun-behind-large-cloud-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="295">
+      <translation id="0">
+        <text>Partially cloudy with rain</text>
+        <image>file:500_Weather/sun-behind-rain-cloud-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="296">
+      <translation id="0">
+        <text>Sunny</text>
+        <image>file:500_Weather/sun-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="297">
+      <translation id="0">
+        <text>Tornado (Very windy)</text>
+        <image>file:500_Weather/tornado-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="298">
+      <translation id="0">
+        <text>Time of day</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="299">
+      <translation id="0">
+        <text>Sunrise</text>
+        <image>file:510_TimeOfDay/sunrise-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="300">
+      <translation id="0">
+        <text>Foggy</text>
+        <image>file:510_TimeOfDay/foggy-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1">
+        <text>It can get foggy in the mornings, but it is usually gone by lunchtime</text>
+      </translation>
+    </entry>
+    <entry id="301">
+      <translation id="0">
+        <text>Daytime</text>
+        <image>file:510_TimeOfDay/cityscape-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="302">
+      <translation id="0">
+        <text>Sunset</text>
+        <image>file:510_TimeOfDay/sunset-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="303">
+      <translation id="0">
+        <text>Dusk</text>
+        <image>file:510_TimeOfDay/cityscape-at-dusk-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="304">
+      <translation id="0">
+        <text>Night</text>
+        <image>file:510_TimeOfDay/night-with-stars-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="305">
+      <translation id="0">
+        <text>Moon</text>
+        <image>file:510_TimeOfDay/crescent-moon-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="306">
+      <translation id="0">
+        <text>Verbs</text>
+      </translation>
+      <translation id="1">
+        <text>Verbs are words for when someone does something</text>
+      </translation>
+    </entry>
+    <entry id="307">
+      <translation id="0">
+        <text>Rowing</text>
+        <image>file:700_Verbs/person-rowing-boat-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="308">
+      <translation id="0">
+        <text>Running</text>
+        <image>file:700_Verbs/person-running-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="309">
+      <translation id="0">
+        <text>Swimming</text>
+        <image>file:700_Verbs/person-swimming-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="310">
+      <translation id="0">
+        <text>Walking</text>
+        <image>file:700_Verbs/person-walking-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="311">
+      <translation id="0">
+        <text>Speaking</text>
+        <image>file:700_Verbs/speaking-head-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="312">
+      <translation id="0">
+        <text>Blowing</text>
+        <image>file:700_Verbs/wind-face-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="313">
+      <translation id="0">
+        <text>Sleeping</text>
+        <image>file:700_Verbs/zzz-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="314">
+      <translation id="0">
+        <text>Sports</text>
+      </translation>
+      <translation id="1">
+        <text>People play sports for relaxation and to be competitive</text>
+      </translation>
+    </entry>
+    <entry id="315">
+      <translation id="0">
+        <text>Baseball</text>
+        <image>file:710_Sports/baseball-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="316">
+      <translation id="0">
+        <text>Basketball</text>
+        <image>file:710_Sports/basketball-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="317">
+      <translation id="0">
+        <text>Bowling</text>
+        <image>file:710_Sports/bowling-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="318">
+      <translation id="0">
+        <text>Boxing</text>
+        <image>file:710_Sports/boxing-glove-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="319">
+      <translation id="0">
+        <text>Cricket</text>
+        <image>file:710_Sports/cricket-game-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="320">
+      <translation id="0">
+        <text>Archery</text>
+        <image>file:710_Sports/direct-hit-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="321">
+      <translation id="0">
+        <text>Fishing</text>
+        <image>file:710_Sports/fishing-pole-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="322">
+      <translation id="0">
+        <text>Golf</text>
+        <image>file:710_Sports/flag-in-hole-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="323">
+      <translation id="0">
+        <text>Soccer</text>
+        <image>file:710_Sports/goal-net-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="324">
+      <translation id="0">
+        <text>Wrestling</text>
+        <image>file:710_Sports/people-wrestling-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="325">
+      <translation id="0">
+        <text>Cycling</text>
+        <image>file:710_Sports/person-biking-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="326">
+      <translation id="0">
+        <text>Surfing</text>
+        <image>file:710_Sports/person-surfing-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="327">
+      <translation id="0">
+        <text>Others</text>
+      </translation>
+      <translation id="1">
+        <text>These words didnt quite fit in other areas.</text>
+      </translation>
+    </entry>
+    <entry id="328">
+      <translation id="0">
+        <text>Tickets</text>
+        <image>file:900_Others/admission-tickets-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="329">
+      <translation id="0">
+        <text>Scales</text>
+        <image>file:900_Others/balance-scale-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="330">
+      <translation id="0">
+        <text>Crane</text>
+        <image>file:900_Others/building-construction-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="331">
+      <translation id="0">
+        <text>Camping</text>
+        <image>file:900_Others/camping-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="332">
+      <translation id="0">
+        <text>Barrier</text>
+        <image>file:900_Others/construction-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="333">
+      <translation id="0">
+        <text>Tree</text>
+        <image>file:900_Others/deciduous-tree-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="334">
+      <translation id="0">
+        <text>Mask</text>
+        <image>file:900_Others/face-with-medical-mask-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="335">
+      <translation id="0">
+        <text>Hole</text>
+        <image>file:900_Others/hole-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="336">
+      <translation id="0">
+        <text>Locked</text>
+        <image>file:900_Others/locked-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="337">
+      <translation id="0">
+        <text>Locked with key</text>
+        <image>file:900_Others/locked-with-key-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="338">
+      <translation id="0">
+        <text>Unlocked</text>
+        <image>file:900_Others/unlocked-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="339">
+      <translation id="0">
+        <text>Loudspeaker</text>
+        <image>file:900_Others/loudspeaker-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="340">
+      <translation id="0">
+        <text>Phone app</text>
+        <image>file:900_Others/mobile-phone-with-arrow-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="341">
+      <translation id="0">
+        <text>Roller coaster</text>
+        <image>file:900_Others/roller-coaster-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="342">
+      <translation id="0">
+        <text>Loud Speaker</text>
+        <image>file:900_Others/speaker-high-volume-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="343">
+      <translation id="0">
+        <text>Silent Speaker</text>
+        <image>file:900_Others/speaker-low-volume-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="344">
+      <translation id="0">
+        <text>Quiet Speaker</text>
+        <image>file:900_Others/speaker-medium-volume-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="345">
+      <translation id="0">
+        <text>Party</text>
+        <image>file:900_Others/party-popper-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="346">
+      <translation id="0">
+        <text>Trophy</text>
+        <image>file:900_Others/trophy-svgrepo-com.svg</image>
+      </translation>
+      <translation id="1"/>
+    </entry>
+    <entry id="347">
+      <translation id="0">
+        <text>A work in progress...</text>
+      </translation>
+      <translation id="1">
+        <text>This flashcard deck is still a work in progress and something i will be looking to add to and build upon later.</text>
+      </translation>
+    </entry>
+    <entry id="348">
+      <translation id="0">
+        <text>Flashcards can be downloaded for free</text>
+      </translation>
+      <translation id="1">
+        <text>I will put a link in the description.</text>
+      </translation>
+    </entry>
+    <entry id="349">
+      <translation id="0">
+        <text>Feedback</text>
+      </translation>
+      <translation id="1">
+        <text>If you have any feedback or requests, please leave a comment.</text>
+      </translation>
+    </entry>
+    <entry id="350">
+      <translation id="0">
+        <text>Thank you for watching</text>
+      </translation>
+      <translation id="1"/>
+    </entry>
+  </entries>
+  <lessons>
+    <container>
+      <name>Default Lesson</name>
+      <inpractice>true</inpractice>
+      <entry id="0"/>
+      <entry id="1"/>
+      <entry id="2"/>
+      <entry id="3"/>
+      <entry id="4"/>
+      <entry id="5"/>
+      <entry id="6"/>
+      <entry id="7"/>
+      <entry id="8"/>
+      <entry id="9"/>
+      <entry id="10"/>
+      <entry id="11"/>
+      <entry id="12"/>
+      <entry id="13"/>
+      <entry id="14"/>
+      <entry id="15"/>
+      <entry id="16"/>
+      <entry id="17"/>
+      <entry id="18"/>
+      <entry id="19"/>
+      <entry id="20"/>
+      <entry id="21"/>
+      <entry id="22"/>
+      <entry id="23"/>
+      <entry id="24"/>
+      <entry id="25"/>
+      <entry id="26"/>
+      <entry id="27"/>
+      <entry id="28"/>
+      <entry id="29"/>
+      <entry id="30"/>
+      <entry id="31"/>
+      <entry id="32"/>
+      <entry id="33"/>
+      <entry id="34"/>
+      <entry id="35"/>
+      <entry id="36"/>
+      <entry id="37"/>
+      <entry id="38"/>
+      <entry id="39"/>
+      <entry id="40"/>
+      <entry id="41"/>
+      <entry id="42"/>
+      <entry id="43"/>
+      <entry id="44"/>
+      <entry id="45"/>
+      <entry id="46"/>
+      <entry id="47"/>
+      <entry id="48"/>
+      <entry id="49"/>
+      <entry id="50"/>
+      <entry id="51"/>
+      <entry id="52"/>
+      <entry id="53"/>
+      <entry id="54"/>
+      <entry id="55"/>
+      <entry id="56"/>
+      <entry id="57"/>
+      <entry id="58"/>
+      <entry id="59"/>
+      <entry id="60"/>
+      <entry id="61"/>
+      <entry id="62"/>
+      <entry id="63"/>
+      <entry id="64"/>
+      <entry id="65"/>
+      <entry id="66"/>
+      <entry id="67"/>
+      <entry id="68"/>
+      <entry id="69"/>
+      <entry id="70"/>
+      <entry id="71"/>
+      <entry id="72"/>
+      <entry id="73"/>
+      <entry id="74"/>
+      <entry id="75"/>
+      <entry id="76"/>
+      <entry id="77"/>
+      <entry id="78"/>
+      <entry id="79"/>
+      <entry id="80"/>
+      <entry id="81"/>
+      <entry id="82"/>
+      <entry id="83"/>
+      <entry id="84"/>
+      <entry id="85"/>
+      <entry id="86"/>
+      <entry id="87"/>
+      <entry id="88"/>
+      <entry id="89"/>
+      <entry id="90"/>
+      <entry id="91"/>
+      <entry id="92"/>
+      <entry id="93"/>
+      <entry id="94"/>
+      <entry id="95"/>
+      <entry id="96"/>
+      <entry id="97"/>
+      <entry id="98"/>
+      <entry id="99"/>
+      <entry id="100"/>
+      <entry id="101"/>
+      <entry id="102"/>
+      <entry id="103"/>
+      <entry id="104"/>
+      <entry id="105"/>
+      <entry id="106"/>
+      <entry id="107"/>
+      <entry id="108"/>
+      <entry id="109"/>
+      <entry id="110"/>
+      <entry id="111"/>
+      <entry id="112"/>
+      <entry id="113"/>
+      <entry id="114"/>
+      <entry id="115"/>
+      <entry id="116"/>
+      <entry id="117"/>
+      <entry id="118"/>
+      <entry id="119"/>
+      <entry id="120"/>
+      <entry id="121"/>
+      <entry id="122"/>
+      <entry id="123"/>
+      <entry id="124"/>
+      <entry id="125"/>
+      <entry id="126"/>
+      <entry id="127"/>
+      <entry id="128"/>
+      <entry id="129"/>
+      <entry id="130"/>
+      <entry id="131"/>
+      <entry id="132"/>
+      <entry id="133"/>
+      <entry id="134"/>
+      <entry id="135"/>
+      <entry id="136"/>
+      <entry id="137"/>
+      <entry id="138"/>
+      <entry id="139"/>
+      <entry id="140"/>
+      <entry id="141"/>
+      <entry id="142"/>
+      <entry id="143"/>
+      <entry id="144"/>
+      <entry id="145"/>
+      <entry id="146"/>
+      <entry id="147"/>
+      <entry id="148"/>
+      <entry id="149"/>
+      <entry id="150"/>
+      <entry id="151"/>
+      <entry id="152"/>
+      <entry id="153"/>
+      <entry id="154"/>
+      <entry id="155"/>
+      <entry id="156"/>
+      <entry id="157"/>
+      <entry id="158"/>
+      <entry id="159"/>
+      <entry id="160"/>
+      <entry id="161"/>
+      <entry id="162"/>
+      <entry id="163"/>
+      <entry id="164"/>
+      <entry id="165"/>
+      <entry id="166"/>
+      <entry id="167"/>
+      <entry id="168"/>
+      <entry id="169"/>
+      <entry id="170"/>
+      <entry id="171"/>
+      <entry id="172"/>
+      <entry id="173"/>
+      <entry id="174"/>
+      <entry id="175"/>
+      <entry id="176"/>
+      <entry id="177"/>
+      <entry id="178"/>
+      <entry id="179"/>
+      <entry id="180"/>
+      <entry id="181"/>
+      <entry id="182"/>
+      <entry id="183"/>
+      <entry id="184"/>
+      <entry id="185"/>
+      <entry id="186"/>
+      <entry id="187"/>
+      <entry id="188"/>
+      <entry id="189"/>
+      <entry id="190"/>
+      <entry id="191"/>
+      <entry id="192"/>
+      <entry id="193"/>
+      <entry id="194"/>
+      <entry id="195"/>
+      <entry id="196"/>
+      <entry id="197"/>
+      <entry id="198"/>
+      <entry id="199"/>
+      <entry id="200"/>
+      <entry id="201"/>
+      <entry id="202"/>
+      <entry id="203"/>
+      <entry id="204"/>
+      <entry id="205"/>
+      <entry id="206"/>
+      <entry id="207"/>
+      <entry id="208"/>
+      <entry id="209"/>
+      <entry id="210"/>
+      <entry id="211"/>
+      <entry id="212"/>
+      <entry id="213"/>
+      <entry id="214"/>
+      <entry id="215"/>
+      <entry id="216"/>
+      <entry id="217"/>
+      <entry id="218"/>
+      <entry id="219"/>
+      <entry id="220"/>
+      <entry id="221"/>
+      <entry id="222"/>
+      <entry id="223"/>
+      <entry id="224"/>
+      <entry id="225"/>
+      <entry id="226"/>
+      <entry id="227"/>
+      <entry id="228"/>
+      <entry id="229"/>
+      <entry id="230"/>
+      <entry id="231"/>
+      <entry id="232"/>
+      <entry id="233"/>
+      <entry id="234"/>
+      <entry id="235"/>
+      <entry id="236"/>
+      <entry id="237"/>
+      <entry id="238"/>
+      <entry id="239"/>
+      <entry id="240"/>
+      <entry id="241"/>
+      <entry id="242"/>
+      <entry id="243"/>
+      <entry id="244"/>
+      <entry id="245"/>
+      <entry id="246"/>
+      <entry id="247"/>
+      <entry id="248"/>
+      <entry id="249"/>
+      <entry id="250"/>
+      <entry id="251"/>
+      <entry id="252"/>
+      <entry id="253"/>
+      <entry id="254"/>
+      <entry id="255"/>
+      <entry id="256"/>
+      <entry id="257"/>
+      <entry id="258"/>
+      <entry id="259"/>
+      <entry id="260"/>
+      <entry id="261"/>
+      <entry id="262"/>
+      <entry id="263"/>
+      <entry id="264"/>
+      <entry id="265"/>
+      <entry id="266"/>
+      <entry id="267"/>
+      <entry id="268"/>
+      <entry id="269"/>
+      <entry id="270"/>
+      <entry id="271"/>
+      <entry id="272"/>
+      <entry id="273"/>
+      <entry id="274"/>
+      <entry id="275"/>
+      <entry id="276"/>
+      <entry id="277"/>
+      <entry id="278"/>
+      <entry id="279"/>
+      <entry id="280"/>
+      <entry id="281"/>
+      <entry id="282"/>
+      <entry id="283"/>
+      <entry id="284"/>
+      <entry id="285"/>
+      <entry id="286"/>
+      <entry id="287"/>
+      <entry id="288"/>
+      <entry id="289"/>
+      <entry id="290"/>
+      <entry id="291"/>
+      <entry id="292"/>
+      <entry id="293"/>
+      <entry id="294"/>
+      <entry id="295"/>
+      <entry id="296"/>
+      <entry id="297"/>
+      <entry id="298"/>
+      <entry id="299"/>
+      <entry id="300"/>
+      <entry id="301"/>
+      <entry id="302"/>
+      <entry id="303"/>
+      <entry id="304"/>
+      <entry id="305"/>
+      <entry id="306"/>
+      <entry id="307"/>
+      <entry id="308"/>
+      <entry id="309"/>
+      <entry id="310"/>
+      <entry id="311"/>
+      <entry id="312"/>
+      <entry id="313"/>
+      <entry id="314"/>
+      <entry id="315"/>
+      <entry id="316"/>
+      <entry id="317"/>
+      <entry id="318"/>
+      <entry id="319"/>
+      <entry id="320"/>
+      <entry id="321"/>
+      <entry id="322"/>
+      <entry id="323"/>
+      <entry id="324"/>
+      <entry id="325"/>
+      <entry id="326"/>
+      <entry id="327"/>
+      <entry id="328"/>
+      <entry id="329"/>
+      <entry id="330"/>
+      <entry id="331"/>
+      <entry id="332"/>
+      <entry id="333"/>
+      <entry id="334"/>
+      <entry id="335"/>
+      <entry id="336"/>
+      <entry id="337"/>
+      <entry id="338"/>
+      <entry id="339"/>
+      <entry id="340"/>
+      <entry id="341"/>
+      <entry id="342"/>
+      <entry id="343"/>
+      <entry id="344"/>
+      <entry id="345"/>
+      <entry id="346"/>
+      <entry id="347"/>
+      <entry id="348"/>
+      <entry id="349"/>
+      <entry id="350"/>
+    </container>
+  </lessons>
+</kvtml>
